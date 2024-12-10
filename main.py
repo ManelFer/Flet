@@ -8,7 +8,7 @@ def main(page: ft.Page):
     page.window_height = 600
     page.window_resizable = False
     page.padding = 100
-    page.theme_mode = 'dark'
+    page.theme_mode = 'light'
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
 # Função chamada quando o botão é clicado
     def btn_click(e):
