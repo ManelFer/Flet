@@ -1,4 +1,4 @@
-# A sistema_flet Flet app
+# A flet Flet app
 
 An example of a minimal Flet app.
 
